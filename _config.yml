@@ -1,0 +1,28 @@
+name: White sur White
+favicon: null
+layout_spectrum: 0.9461066457442939
+typography_spectrum: 0.19532725983299315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.209108802722767
+  lightness: 0.056535036535933614
+  saturation: 0.10068231006152928
+  rhythmicContrast: 0.6955493818968534
+purpose: []
